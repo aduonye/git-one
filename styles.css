@@ -2,3 +2,6 @@ body {
 	background: red;
 	color: yellow;
 }
+p.brag {
+	font-family: Monospace;
+}
